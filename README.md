@@ -65,11 +65,11 @@ Printable files are **free for personal use**, while **commercial use requires a
 A paid commercial license is required.**
 
 - 商业授权购买（Commercial License Store）：  
-  https://yourstore.com  
+  [https://lingualearninglab.org](https://lingualearninglab.org)  
 - 官方网站（Official Website）：  
-  https://yourwebsite.com  
+  [https://lingualearninglab.org](https://lingualearninglab.org) 
 - 联系邮箱（Email）：  
-  your-email@example.com  
+  hello@lingualearninglab.org
 
 ---
 
