@@ -70,4 +70,4 @@ Full legal code: `https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode` [
 
 ---
 
-如果你愿意，我可以帮你把 README 也补全成专业版（含下载、授权、项目结构、商店链接）。你现在想继续完善 README 吗？
+
