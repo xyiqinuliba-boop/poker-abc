@@ -1,11 +1,8 @@
 # poker-abc
 A set of multilingual language‑pair flashcards designed like early‑learning playing cards, featuring trace‑writing practice and QR‑code audio pronunciation.
 
-太好了，那我现在直接把 **完整 README（中英文双语、可直接复制到 GitHub）** 给你。这样你创建好仓库、加上 LICENSE，再把这个 README.md 放进去，你的项目就完整、专业、可推广了。
 
 ---
-
-# 📘 README.md（可直接复制）
 
 # **poker-abc**  
 **Multilingual Early‑Learning Flashcards**  
