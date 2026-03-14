@@ -1,7 +1,7 @@
 # poker-abc
 A set of multilingual language‑pair flashcards designed like early‑learning playing cards, featuring trace‑writing practice and QR‑code audio pronunciation.
 
-
+https://anti-abc.github.io/poker-abc/english-chinese/index.html
 ---
 
 # **poker-abc**  
