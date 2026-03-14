@@ -7,7 +7,7 @@ https://anti-abc.github.io/poker-abc/english-chinese/index.html
 # **poker-abc**  
 **Multilingual Early‑Learning Flashcards**  
 多国语言启蒙扑克牌式闪卡（可打印 · 描红 · 扫码读音）
-
+https://lingualearninglab.org/blog/?p=82
 ---
 
 ## 📖 项目简介 | Introduction
